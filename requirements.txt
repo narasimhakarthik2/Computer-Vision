@@ -8,8 +8,7 @@ Pillow
 PyYAML
 requests
 scipy
-torch
-torchvision
 tqdm
 filterpy
 scikit-image
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
